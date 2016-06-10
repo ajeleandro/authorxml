@@ -1,0 +1,2 @@
+$(document).ready(function () {$("#sending").bind("change", function (event) {$.ajax({url:"\/videos\/add\/before:%24%28%22%23sending%22%29.fadeIn%28%29%3B\/success:%24%28%22%23sending%22%29.fadeOut%28%29%3B\/update:%23success"});
+return false;});});

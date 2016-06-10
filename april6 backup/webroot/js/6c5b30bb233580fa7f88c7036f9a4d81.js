@@ -1,0 +1,3 @@
+$(document).ready(function () {$("#ParentCategoryId").bind("change", function (event) {$.ajax({async:true, data:$("#ParentCategoryId").serialize(), dataType:"html", success:function (data, textStatus) {$("#categories").html(data);}, type:"post", url:"\/videos\/getbycategory"});
+return false;});
+$("#ParentCategoryId").each(function () {$.ajax({async:true, data:$("#ParentCategoryId").serialize(), dataType:"html", success:function (data, textStatus) {$("#categories").html(data);}, type:"post", url:"\/videos\/getbycategory\/success:function%28data%29%20%7B%0D%0A%20%20%20%20%20%20%20%20%20%20%20%20%24%28%27%23ParentCategoryId%27%29.html%28data.html%29%3B%20%0D%0A%20%20%20%20%20%20%20%20%20%7D"});});});

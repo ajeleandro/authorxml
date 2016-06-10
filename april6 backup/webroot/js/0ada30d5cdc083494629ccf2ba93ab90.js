@@ -1,0 +1,2 @@
+$(document).ready(function () {$("#sending").bind("change", function (event) {$.ajax({beforeSend:function (XMLHttpRequest) {$("#sending").fadeIn();}, dataType:"html", success:function (data, textStatus) {$("#sending").fadeOut();$("#success").html(data);}, url:"\/videos\/add"});
+return false;});});

@@ -1,0 +1,19 @@
+
+
+
+
+@media only screen and (max-width: 900px) {
+    
+    div.actions{
+        margin-bottom: 5%;
+        position: relative;
+    }
+    .actions li{
+        display: inline-block;
+    }
+
+    div.form, div.index, div.view{
+        float: none;
+        width: 100%;
+    }
+}

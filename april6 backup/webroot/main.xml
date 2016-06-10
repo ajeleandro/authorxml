@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v1.0 20131225//EN" "http://jats.nlm.nih.gov/extensions/bits/1.0/BITS-book1.dtd">
+<book-part-wrapper content-type="multimedia" dtd-version="1.0" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<book-meta>
+	</book-meta>
+	<book-part book-part-type="object" xml:lang="en">
+		<book-part-meta>
+		<book-part-id book-part-id-type="publisher-id"></book-part-id>
+
+	            <subj-group subj-group-type="category">
+	                <subject></subject>
+	            </subj-group>
+			<title-group>
+				<title></title>
+			</title-group>
+			<contrib-group></contrib-group>
+			<supplementary-material content-type="thumbnail">	
+				<graphic xlink:href=""/>		
+			</supplementary-material>
+			<self-uri xlink:href="http://bcove.me/hky4pn1o" content-type="brightcove" />
+			<custom-meta-group>
+				<custom-meta>
+					<meta-name>duration</meta-name>
+					<meta-value></meta-value>
+				     </custom-meta>
+				<custom-meta>
+					<meta-name>height</meta-name>
+					<meta-value></meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>width</meta-name>
+					<meta-value></meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>player</meta-name>
+					<meta-value></meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>playerkey</meta-name>
+					<meta-value></meta-value>
+				</custom-meta>
+				<custom-meta>
+					<meta-name>videoid</meta-name>
+					<meta-value></meta-value>
+				</custom-meta>
+			</custom-meta-group>
+		</book-part-meta>
+		<body>
+			
+		</body>
+	</book-part>
+</book-part-wrapper>

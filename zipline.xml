@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book-part-wrapper PUBLIC "-//NLM//DTD BITS Book Interchange DTD v1.0 20131225//EN" "http://jats.nlm.nih.gov/extensions/bits/1.0/BITS-book1.dtd">
+<book-part-wrapper xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" content-type="multimedia" dtd-version="1.0" xml:lang="en">
+  <book-meta>
+	</book-meta>
+  <book-part book-part-type="object" xml:lang="en">
+    <book-part-meta>
+      <book-part-id book-part-id-type="publisher-id">4129201103001</book-part-id>
+      <subj-group subj-group-type="category-Multimedia Categories">
+        <subject>Specialty Areas</subject>
+      </subj-group>
+      <title-group>
+        <title>Head CT Scan Interpretation: An Organized Approach</title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Neville</surname>
+            <given-names>Cynthia E.</given-names>
+          </name>
+          <degrees>WCS, BCB-PMD</degrees>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <aff id="aff1">Women’s Health Clinical Specialist; SmartBody Physical Therapy, Jacksonville, Florida; Clinical Faculty, University of North Florida, Brooks College of Health</aff>
+      </contrib-group>
+      <supplementary-material content-type="thumbnail">
+        <graphic xlink:href="apt-28.png"/>
+      </supplementary-material>
+      <self-uri xlink:href="http://bcove.me/hky4pn1o" content-type="brightcove"/>
+      <custom-meta-group>
+        <custom-meta>
+          <meta-name>duration</meta-name>
+          <meta-value>13 mins, 06 secs</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>height</meta-name>
+          <meta-value>530</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>width</meta-name>
+          <meta-value>945</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>player</meta-name>
+          <meta-value>1701074961001</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>playerkey</meta-name>
+          <meta-value>AQ~~,AAAAyT9oH9k~,DTe1zot21E1nSpajEYjJB2xxrjlZGznd</meta-value>
+        </custom-meta>
+        <custom-meta>
+          <meta-name>videoid</meta-name>
+          <meta-value>4129201103001</meta-value>
+        </custom-meta>
+      </custom-meta-group>
+    </book-part-meta>
+    <body>
+		</body>
+  </book-part>
+</book-part-wrapper>
